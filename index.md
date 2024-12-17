@@ -1,1 +1,3 @@
-# Hello, this is levis, this is my portfolio
+Levis portfolio
+
+# This is Levis portfolio
