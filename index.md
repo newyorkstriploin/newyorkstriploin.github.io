@@ -6,6 +6,7 @@ this is my app, it simulates a ios virtual machine
 
 # Guessing game
 this game makes you guess a number from 1 to 100 and once you get it a message pops up congratulating you on getting the right number
+<img src="guessing.png">
 <a href="https://youtu.be/-lioCdnisxA" target=_blank>guessing game</a>
 
 
