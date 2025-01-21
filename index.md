@@ -11,3 +11,7 @@ this game makes you guess a number from 1 to 100 and once you get it a message p
 
 
 
+# This is my toy infinity cube
+
+<img src="infinity.png">
+<img src="cube.png">
