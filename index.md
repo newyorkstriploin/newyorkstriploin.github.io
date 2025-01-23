@@ -1,4 +1,4 @@
-
+ 
 # This is Levis portfolio
 this is my app, it simulates a ios virtual machine
 <img src="figma.jpeg">
@@ -23,4 +23,4 @@ this game makes you guess a number from 1 to 100 and once you get it a message p
 
 
 # I had technical issues with my project it was meant to be a walkthrough on how to play rainbow six siege but due to all the issues it became a funny compilation it is meant to be funny. of course this isnt what i wanted to do but this is what i made with the time i had.
-<a href="https://youtu.be/tcdk4esflyk" target=_blank>personal project</a>
+<a href="https://youtu.be/KvEPIz5mmFU" target=_blank>personal project</a>
